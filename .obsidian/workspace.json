@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c89dd3c9f3c6d766",
+    "type": "split",
+    "children": [
+      {
+        "id": "c981c063d9c4c5b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17e06007a60997e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1be36f52f95bbcb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8033d5f3d440e383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226b46071de35466",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f33e44c55735a17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d69e9d9c6676df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad642fbb88a0be20",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d5e14e44102dba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638d5c280811a923",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c3f52897694fbeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a4685253cfe71eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7443f631b38b8343",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a17e06007a60997e",
+  "lastOpenFiles": [
+    "APP HACKING.md",
+    "Sin título.canvas",
+    "PENETRATION TESTER HTB/PIVOTING/CHEAT SHEET.md",
+    "PENETRATION TESTER HTB/GETTING STARTED/CHEAT SHEET.md",
+    "PENETRATION TESTER HTB/BOF WINDOWS/DEBUGGING X64DBG.md",
+    "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Active Subdomain Enumeration.md",
+    "PENETRATION TESTER HTB/BOF WINDOWS",
+    "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Active Infrastructure Identification.md",
+    "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Passive Subdomain Enumeration.md",
+    "PENETRATION TESTER HTB/PIVOTING/PROXYCHAIN.md",
+    "PENETRATION TESTER HTB/INFORMATION GATHERING WEB",
+    "ACTIVE DIRECTORY/MAQUINA ACTIVE.md",
+    "PENETRATION TESTER HTB/PIVOTING/SOCAT.md",
+    "PENETRATION TESTER HTB/PIVOTING/HOST DISCOVERY PING SCRIPT.md",
+    "PENETRATION TESTER HTB/PIVOTING/CHISEL.md",
+    "PENETRATION TESTER HTB/PIVOTING/RPIVOT.md",
+    "PENETRATION TESTER HTB/NMAP ENUM/Firewall and IDS IPS Evasion.md",
+    "PENETRATION TESTER HTB/NMAP ENUM/CHEAT SHEET.md",
+    "PENETRATION TESTER HTB/NMAP ENUM/STATES PORTS.md",
+    "PENETRATION TESTER HTB/GETTING STARTED/OWASP TOP 10 WEB.md",
+    "PENETRATION TESTER HTB/NMAP ENUM",
+    "PENETRATION TESTER HTB/PIVOTING/SocksOverRDP.md",
+    "PENETRATION TESTER HTB/PIVOTING/NETSH.md",
+    "PENETRATION TESTER HTB/PIVOTING/ICMP Tunneling with SOCKS.md",
+    "PENETRATION TESTER HTB/PIVOTING/Dnscat2.md",
+    "PENETRATION TESTER HTB/GETTING STARTED/COMMON PORTS.md",
+    "PENETRATION TESTER HTB/PIVOTING/Sshuttle.md",
+    "PENETRATION TESTER HTB/PIVOTING/PLINK.md",
+    "PENETRATION TESTER HTB/GETTING STARTED/WEB ENUMERATION.md",
+    "PENETRATION TESTER HTB/GETTING STARTED/PRIVILEGE ESCALATION.md",
+    "IMAGES",
+    "PENETRATION TESTER HTB/GETTING STARTED",
+    "IMAGES/Pasted image 20240425154030.png",
+    "IMAGES/Pasted image 20240425153840.png",
+    "IMAGES/Pasted image 20240425153729.png",
+    "IMAGES/Pasted image 20240425153700.png",
+    "IMAGES/Pasted image 20240425153129.png",
+    "IMAGES/Pasted image 20240425152451.png",
+    "IMAGES/Pasted image 20240425152150.png",
+    "IMAGES/Pasted image 20240425151949.png",
+    "IMAGES/Pasted image 20240425151843.png",
+    "IMAGES/Pasted image 20240425151629.png",
+    "PENETRATION TESTER HTB",
+    "PENETRATION TESTER HTB/PIVOTING",
+    "ACTIVE DIRECTORY",
+    "eJPT"
+  ]
+}
