@@ -11,8 +11,12 @@
             "id": "a17e06007a60997e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md"
+              }
             }
           }
         ]
@@ -140,24 +148,25 @@
   },
   "active": "a17e06007a60997e",
   "lastOpenFiles": [
+    "PENETRATION TESTER HTB/NMAP ENUM/Firewall and IDS IPS Evasion.md",
+    "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/NMAP ENUM/CHEAT SHEET.md",
+    "ACTIVE DIRECTORY/MAQUINA ACTIVE.md",
+    "PENETRATION TESTER HTB/BOF WINDOWS/DEBUGGING X64DBG.md",
     "APP HACKING.md",
     "Sin título.canvas",
     "PENETRATION TESTER HTB/PIVOTING/CHEAT SHEET.md",
     "PENETRATION TESTER HTB/GETTING STARTED/CHEAT SHEET.md",
-    "PENETRATION TESTER HTB/BOF WINDOWS/DEBUGGING X64DBG.md",
     "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Active Subdomain Enumeration.md",
     "PENETRATION TESTER HTB/BOF WINDOWS",
     "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Active Infrastructure Identification.md",
     "PENETRATION TESTER HTB/INFORMATION GATHERING WEB/Passive Subdomain Enumeration.md",
     "PENETRATION TESTER HTB/PIVOTING/PROXYCHAIN.md",
     "PENETRATION TESTER HTB/INFORMATION GATHERING WEB",
-    "ACTIVE DIRECTORY/MAQUINA ACTIVE.md",
     "PENETRATION TESTER HTB/PIVOTING/SOCAT.md",
     "PENETRATION TESTER HTB/PIVOTING/HOST DISCOVERY PING SCRIPT.md",
     "PENETRATION TESTER HTB/PIVOTING/CHISEL.md",
     "PENETRATION TESTER HTB/PIVOTING/RPIVOT.md",
-    "PENETRATION TESTER HTB/NMAP ENUM/Firewall and IDS IPS Evasion.md",
-    "PENETRATION TESTER HTB/NMAP ENUM/CHEAT SHEET.md",
     "PENETRATION TESTER HTB/NMAP ENUM/STATES PORTS.md",
     "PENETRATION TESTER HTB/GETTING STARTED/OWASP TOP 10 WEB.md",
     "PENETRATION TESTER HTB/NMAP ENUM",
@@ -169,7 +178,6 @@
     "PENETRATION TESTER HTB/PIVOTING/Sshuttle.md",
     "PENETRATION TESTER HTB/PIVOTING/PLINK.md",
     "PENETRATION TESTER HTB/GETTING STARTED/WEB ENUMERATION.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/PRIVILEGE ESCALATION.md",
     "IMAGES",
     "PENETRATION TESTER HTB/GETTING STARTED",
     "IMAGES/Pasted image 20240425154030.png",
