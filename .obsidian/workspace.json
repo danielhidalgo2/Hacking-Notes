@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
+                "file": "PENETRATION TESTER HTB/METASPLOIT/CHEET SHEET.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
+                "file": "PENETRATION TESTER HTB/METASPLOIT/CHEET SHEET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
+                "file": "PENETRATION TESTER HTB/METASPLOIT/CHEET SHEET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md"
+                "file": "PENETRATION TESTER HTB/METASPLOIT/CHEET SHEET.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "a17e06007a60997e",
   "lastOpenFiles": [
+    "PENETRATION TESTER HTB/METASPLOIT/ENCODERS.md",
+    "PENETRATION TESTER HTB/METASPLOIT/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/FILE TRANSFERS/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/METASPLOIT",
+    "PENETRATION TESTER HTB/Sin título.md",
+    "PENETRATION TESTER HTB/FILE TRANSFERS.md",
+    "PENETRATION TESTER HTB/FILE TRANSFERS",
+    "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/SSH.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/FTP.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/RDP.md",
@@ -157,7 +165,6 @@
     "PENETRATION TESTER HTB/FOOTPRINTING/MYSQL.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/SNMP.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/IMAP  POP3.md",
-    "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/DNS.md",
     "PENETRATION TESTER HTB/GETTING STARTED/COMMON PORTS.md",
     "PENETRATION TESTER HTB/FOOTPRINTING/NFS.md",
@@ -170,11 +177,6 @@
     "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
     "PENETRATION TESTER HTB/PIVOTING/SocksOverRDP.md",
     "PENETRATION TESTER HTB/PIVOTING/SOCAT.md",
-    "PENETRATION TESTER HTB/PIVOTING/RPIVOT.md",
-    "PENETRATION TESTER HTB/PIVOTING/PROXYCHAIN.md",
-    "PENETRATION TESTER HTB/PIVOTING/PLINK.md",
-    "PENETRATION TESTER HTB/PIVOTING/Dnscat2.md",
-    "PENETRATION TESTER HTB/PIVOTING/NETSH.md",
     "Sin título.canvas",
     "PENETRATION TESTER HTB/BOF WINDOWS",
     "PENETRATION TESTER HTB/INFORMATION GATHERING WEB",
@@ -192,8 +194,6 @@
     "IMAGES/Pasted image 20240425151843.png",
     "IMAGES/Pasted image 20240425151629.png",
     "PENETRATION TESTER HTB",
-    "PENETRATION TESTER HTB/PIVOTING",
-    "ACTIVE DIRECTORY",
-    "eJPT"
+    "PENETRATION TESTER HTB/PIVOTING"
   ]
 }
