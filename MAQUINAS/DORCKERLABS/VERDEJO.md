@@ -120,11 +120,10 @@ Sin embargo parece que la web por el servicio 8089 es mucho más interesante.
 Probamos a ver si interpreta html el formulario de la siguiente manera:
 
 ```shell-session
-<h1>HTMLI</h1>
+<h1>HOOOLA</h1>
 ```
 
-![[Pasted image 20240523143806.png]]
-
+![image](https://github.com/danielhidalgo2/images/assets/60622651/97f25004-208e-4863-9299-3ec369821d52)
 
 
 También probamos si es susceptible a XSS con el típico payload:
