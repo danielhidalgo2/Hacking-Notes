@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAQUINAS/DORCKERLABS/HIDDENCAT.md",
+                "file": "MAQUINAS/DORCKERLABS/VERDEJO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAQUINAS/DORCKERLABS/HIDDENCAT.md",
+                "file": "MAQUINAS/DORCKERLABS/VERDEJO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAQUINAS/DORCKERLABS/HIDDENCAT.md",
+                "file": "MAQUINAS/DORCKERLABS/VERDEJO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAQUINAS/DORCKERLABS/HIDDENCAT.md"
+                "file": "MAQUINAS/DORCKERLABS/VERDEJO.md"
               }
             }
           }
@@ -148,53 +148,53 @@
   },
   "active": "390dd29cbe62968d",
   "lastOpenFiles": [
-    "Pasted image 20240514160340.png",
-    "Pasted image 20240514151914.png",
-    "Sin título.canvas",
     "MAQUINAS/DORCKERLABS/HIDDENCAT.md",
+    "MAQUINAS/DORCKERLABS/VERDEJO.md",
+    "Pasted image 20240523152523.png",
+    "QUICK NOTES/SSTI.md",
+    "QUICK NOTES/STEGHIDE.md",
+    "PENETRATION TESTER HTB/XSS/CHEAT SHEET.md",
+    "Pasted image 20240523143806.png",
+    "PENETRATION TESTER HTB/XSS/HIJACKING.md",
+    "PENETRATION TESTER HTB/XSS/XSS DISCOVERY.md",
+    "QUICK NOTES/REVERSE SHELL.md",
+    "QUICK NOTES/ESCALADA PRIVILEGIO BINARIO.md",
+    "PENETRATION TESTER HTB/SQLMAP/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/SQLMAP",
+    "PENETRATION TESTER HTB/FOOTPRINTING/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/FILE TRANSFERS/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/PIVOTING/CHEAT SHEET.md",
+    "PENETRATION TESTER HTB/SQLI/CHEET SHEET.md",
+    "PENETRATION TESTER HTB/PIVOTING/CHISEL.md",
+    "PENETRATION TESTER HTB/PIVOTING/SOCAT.md",
+    "MAQUINAS/DORCKERLABS/BIG PIVOTING.md",
+    "Pasted image 20240522135833.png",
+    "Pasted image 20240522144312.png",
+    "Pasted image 20240522131730.png",
+    "QUICK NOTES/GOBUSTER.md",
+    "QUICK NOTES/WFUZZ.md",
+    "QUICK NOTES/HOST DISCOVERY PING SCRIPT.md",
+    "QUICK NOTES/HOST DISCOVERY WITHOUT PING.md",
+    "PENETRATION TESTER HTB/PIVOTING/Sshuttle.md",
+    "QUICK NOTES/PORT DISCOVERY SCRIPT.md",
+    "PENETRATION TESTER HTB/SQLI",
+    "PENETRATION TESTER HTB/XSS/Phishing.md",
+    "PENETRATION TESTER HTB/XSS",
+    "PENETRATION TESTER HTB/FFUF/CHEET SHEET.md",
+    "Pasted image 20240516175033.png",
+    "PENETRATION TESTER HTB/PASSWORD ATTACKS",
+    "PENETRATION TESTER HTB/WINDOWS PRIVILEGE ESCALATION",
+    "Pasted image 20240515190036.png",
+    "PENETRATION TESTER HTB/LOGIN BRUTE FORCING",
+    "PENETRATION TESTER HTB/FFUF",
+    "PENETRATION TESTER HTB/USING WEB PROXIES",
+    "Pasted image 20240514210652.png",
+    "Pasted image 20240514210634.png",
+    "Pasted image 20240514210618.png",
+    "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
-    "PENETRATION TESTER HTB/GETTING STARTED/CHEAT SHEET.md",
-    "PENETRATION TESTER HTB/BOF WINDOWS/Controlling EIP.md",
-    "PENETRATION TESTER HTB/BOF WINDOWS/CHEET SHEET.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/PRIVILEGE ESCALATION.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/OWASP TOP 10 WEB.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/INTERACTIVE SHELL.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/METASPLOIT.md",
-    "PENETRATION TESTER HTB/GETTING STARTED/COMMON PORTS.md",
-    "QUICK NOTES/ESCALADA PRIVILEGIO BINARIO.md",
-    "QUICK NOTES/HYDRA.md",
-    "QUICK NOTES/NMAP SCAN.md",
-    "PENETRATION TESTER HTB/SHEEL & PAYLOADS/CHEET SHEET.md",
-    "hola.md",
-    "Pasted image 20240514134608.png",
-    "Captura.png",
-    "Pasted image 20240514133551.png",
-    "MAQUINAS/Sin título.md",
     "MAQUINAS/DORCKERLABS",
-    "QUICK NOTES/WPSCAN.md",
-    "QUICK NOTES/TRATAMIENTO TTY.md",
-    "QUICK NOTES/GOBUSTER.md",
-    "PENETRATION TESTER HTB/PIVOTING/CHISEL.md",
-    "PENETRATION TESTER HTB/PIVOTING/HOST DISCOVERY PING SCRIPT.md",
-    "QUICK NOTES/JENKINS VULN.md",
-    "QUICK NOTES/STEGHIDE.md",
-    "QUICK NOTES/PEM & TXT DECRIPT.md",
-    "PENETRATION TESTER HTB/FILE TRANSFERS/CHEET SHEET.md",
-    "PENETRATION TESTER HTB/METASPLOIT/ENCODERS.md",
-    "QUICK NOTES",
-    "MAQUINAS",
-    "PENETRATION TESTER HTB/SHEEL & PAYLOADS",
-    "PENETRATION TESTER HTB/METASPLOIT",
-    "PENETRATION TESTER HTB/FILE TRANSFERS",
-    "PENETRATION TESTER HTB/FOOTPRINTING",
-    "PENETRATION TESTER HTB/BOF WINDOWS",
-    "PENETRATION TESTER HTB/INFORMATION GATHERING WEB",
-    "PENETRATION TESTER HTB/NMAP ENUM",
-    "IMAGES/Pasted image 20240425154030.png",
-    "IMAGES/Pasted image 20240425153840.png",
-    "IMAGES/Pasted image 20240425153729.png",
-    "IMAGES/Pasted image 20240425153700.png",
-    "IMAGES/Pasted image 20240425153129.png"
+    "QUICK NOTES"
   ]
 }

