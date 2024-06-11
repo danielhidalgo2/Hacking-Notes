@@ -1,0 +1,1 @@
+https://github.com/DeepakGhengat/ADVANCED-DIRECTORY-TRAVERSAL-PAYLOADS/blob/master/Directory_Traversal.txt
