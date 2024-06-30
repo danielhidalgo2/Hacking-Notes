@@ -3,13 +3,18 @@
 ## BUGCROWD
 
 ```
-nuclei -u https:// -t nuclei-templates/http/technologies/nginx/nginx-version.yaml -header ‘User-Agent:Bugcrowd(hidalg0d)’ 
+nuclei -u https:// -t nuclei-templates/http/technologies/nginx/nginx-version.yaml -header 'User-Agent:Bugcrowd(hidalg0d)' 
 ```
 
 ## HACKERONE
 ```
-nuclei -u https:// -t nuclei-templates/http/technologies/nginx/nginx-version.yaml -header ‘User-Agent:Hackerone(hidalg0d)’ 
+nuclei -u https:// -t nuclei-templates/http/technologies/nginx/nginx-version.yaml -header 'User-Agent:Hackerone(hidalg0d)' 
 ```
+
+```
+nuclei -l list.txt -t /home/daniel/.local/nuclei-templates/http -severity low,medium -rate-limit 4  -header 'User-Agent:Bugcrowd(hidalg0d)' 
+```
+
 
 ```
 nuclei -u** [**http://testphp.vulnweb.com/**](http://testphp.vulnweb.com/) **-t nuclei-templates -tags xss

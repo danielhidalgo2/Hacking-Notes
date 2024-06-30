@@ -8,7 +8,7 @@ subfinder -all -d <domain-name> -o <output-filename1> -silent
 ```
 
 ```
-subfinder -d varonis.com -o actives.txt -nW
+subfinder -d XXX.com -o actives.txt -nW
 
 ```
 

