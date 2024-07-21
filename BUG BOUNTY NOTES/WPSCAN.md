@@ -1,0 +1,1 @@
+wpscan --url [http://example.com/](http://example.com/ "http://example.com/") --request-timeout 5 --user-agent "hidalg0d@intigriti.me" --enumerate vp,u

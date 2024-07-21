@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUG BOUNTY NOTES/NUCLEI.md",
+                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
+                "file": "BUG BOUNTY NOTES/XSSTRIKE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
+                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
+                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md"
+                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md"
               }
             }
           }
@@ -159,34 +158,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5b25e0401842e119",
+  "active": "390dd29cbe62968d",
   "lastOpenFiles": [
-    "BUG BOUNTY NOTES/SUBFINDER + HTTPX.md",
-    "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
-    "BUG BOUNTY NOTES/XSS CHEAT SHEET.md",
-    "BUG BOUNTY NOTES/CRAWLING.md",
     "BUG BOUNTY NOTES/CLOUDFARE BYPASS XSS.md",
-    "BUG BOUNTY NOTES/NUCLEI.md",
-    "BUG BOUNTY NOTES/KATANA.md",
+    "BUG BOUNTY NOTES/VULNERABILITIES.md",
+    "BUG BOUNTY NOTES/INCAPSULA BYPASS XSS.md",
+    "BUG BOUNTY NOTES/XSS CHEAT SHEET.md",
+    "BUG BOUNTY NOTES/GOOGLE DORKING.md",
     "BUG BOUNTY NOTES/BYPASSES AVANZADOS PARA XSS.md",
+    "BUG BOUNTY NOTES/CLOUDFRONT BYPASS XSS.md",
+    "BUG BOUNTY NOTES/IMPERVA BYPASS XSS.md",
+    "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
+    "BUG BOUNTY NOTES/KATANA.md",
+    "PORTSWIGGER/SSRF.md",
+    "BUG BOUNTY NOTES/NUCLEI.md",
+    "BUG BOUNTY NOTES/CRAWLING.md",
+    "BUG BOUNTY NOTES/WPSCAN.md",
+    "BUG BOUNTY NOTES/XSSTRIKE.md",
+    "BUG BOUNTY NOTES/SUBFINDER + HTTPX.md",
+    "BUG BOUNTY NOTES/WORDPRESS.md",
+    "BUG BOUNTY NOTES/AKAMAI BYPASS XSS.md",
     "BUG BOUNTY NOTES/IDORs.md",
     "QUICK NOTES/WFUZZ.md",
-    "BUG BOUNTY NOTES/AKAMAI BYPASS XSS.md",
-    "BUG BOUNTY NOTES/WORDPRESS.md",
-    "BUG BOUNTY NOTES/XSSTRIKE.md",
-    "BUG BOUNTY NOTES/CLOUDFRONT BYPASS XSS.md",
     "QUICK NOTES/WPSCAN.md",
     "PENETRATION TESTER HTB/SQLI/CHEAT SHEET.md",
     "PENETRATION TESTER HTB/XSS/XSS DISCOVERY.md",
-    "PORTSWIGGER/SSRF.md",
     "PENETRATION TESTER HTB/WEB ATTACKS/Advanced Exfiltration with CDATA.md",
     "PENETRATION TESTER HTB/WEB ATTACKS/Remote Code Execution with XXE.md",
-    "BUG BOUNTY NOTES/IMPERVA BYPASS XSS.md",
-    "BUG BOUNTY NOTES/INCAPSULA BYPASS XSS.md",
-    "BUG BOUNTY NOTES/GOOGLE DORKING.md",
     "PORTSWIGGER/XSS.md",
-    "PENETRATION TESTER HTB/XSS/CHEAT SHEET.md",
-    "PENETRATION TESTER HTB/BOF WINDOWS/CHEAT SHEET.md",
     "BUG BOUNTY NOTES",
     "PENETRATION TESTER HTB/WEB ATTACKS",
     "PENETRATION TESTER HTB/FILE UPLOADS ATTACK",

