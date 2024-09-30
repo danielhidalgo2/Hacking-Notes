@@ -37,3 +37,5 @@ En este lab explotamos un SSRF + XXE, tratamos de listar directorios y el ataque
 </productId><storeId>1</storeId></stockCheck>
 ```
 
+
+

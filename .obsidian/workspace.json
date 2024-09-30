@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
+                "file": "BUG BOUNTY NOTES/AKAMAI BYPASS XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd05a0eb5f73fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUG BOUNTY NOTES/KATANA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "543c9b2e1f9847d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUG BOUNTY NOTES/SUBDOMAIN TAKEOVER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b39025e6d254f605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUG BOUNTY NOTES/BAMBDA BURPSUITE.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
+                "file": "BUG BOUNTY NOTES/BAMBDA BURPSUITE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md",
+                "file": "BUG BOUNTY NOTES/BAMBDA BURPSUITE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUG BOUNTY NOTES/VULNERABILITIES.md"
+                "file": "BUG BOUNTY NOTES/BAMBDA BURPSUITE.md"
               }
             }
           }
@@ -158,34 +195,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "390dd29cbe62968d",
+  "active": "b39025e6d254f605",
   "lastOpenFiles": [
-    "BUG BOUNTY NOTES/CLOUDFARE BYPASS XSS.md",
-    "BUG BOUNTY NOTES/VULNERABILITIES.md",
-    "BUG BOUNTY NOTES/INCAPSULA BYPASS XSS.md",
-    "BUG BOUNTY NOTES/XSS CHEAT SHEET.md",
-    "BUG BOUNTY NOTES/GOOGLE DORKING.md",
-    "BUG BOUNTY NOTES/BYPASSES AVANZADOS PARA XSS.md",
-    "BUG BOUNTY NOTES/CLOUDFRONT BYPASS XSS.md",
-    "BUG BOUNTY NOTES/IMPERVA BYPASS XSS.md",
-    "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
-    "BUG BOUNTY NOTES/KATANA.md",
-    "PORTSWIGGER/SSRF.md",
-    "BUG BOUNTY NOTES/NUCLEI.md",
-    "BUG BOUNTY NOTES/CRAWLING.md",
-    "BUG BOUNTY NOTES/WPSCAN.md",
-    "BUG BOUNTY NOTES/XSSTRIKE.md",
+    "BUG BOUNTY NOTES/ASSETFINDER.md",
+    "BUG BOUNTY NOTES/SUBDOMAIN TAKEOVER.md",
     "BUG BOUNTY NOTES/SUBFINDER + HTTPX.md",
-    "BUG BOUNTY NOTES/WORDPRESS.md",
+    "BUG BOUNTY NOTES/OPEN REDIRECT.md",
+    "BUG BOUNTY NOTES/PAYLOADS PATH TRAVERSAL.md",
+    "BUG BOUNTY NOTES/NUCLEI.md",
+    "BUG BOUNTY NOTES/JS EXPOSURES.md",
+    "BUG BOUNTY NOTES/JWT.md",
+    "BUG BOUNTY NOTES/BAMBDA BURPSUITE.md",
+    "BUG BOUNTY NOTES/KATANA.md",
+    "BUG BOUNTY NOTES/CLOUDFARE BYPASS XSS.md",
+    "BUG BOUNTY NOTES/XSS CHEAT SHEET.md",
+    "BUG BOUNTY NOTES/BYPASSES AVANZADOS PARA XSS.md",
+    "PORTSWIGGER/SSRF.md",
+    "PORTSWIGGER/PATH TRAVERSAL.md",
+    "PORTSWIGGER/Access control vulnerabilities.md",
     "BUG BOUNTY NOTES/AKAMAI BYPASS XSS.md",
-    "BUG BOUNTY NOTES/IDORs.md",
-    "QUICK NOTES/WFUZZ.md",
-    "QUICK NOTES/WPSCAN.md",
-    "PENETRATION TESTER HTB/SQLI/CHEAT SHEET.md",
-    "PENETRATION TESTER HTB/XSS/XSS DISCOVERY.md",
-    "PENETRATION TESTER HTB/WEB ATTACKS/Advanced Exfiltration with CDATA.md",
-    "PENETRATION TESTER HTB/WEB ATTACKS/Remote Code Execution with XXE.md",
-    "PORTSWIGGER/XSS.md",
+    "QUICK NOTES/HOST DISCOVERY WITHOUT PING.md",
+    "QUICK NOTES/CRLF INJECTION.md",
+    "QUICK NOTES/REVERSE SHELL.md",
+    "QUICK NOTES/PORT DISCOVERY SCRIPT.md",
+    "QUICK NOTES/PEM & TXT DECRIPT.md",
+    "QUICK NOTES/NMAP SCAN.md",
+    "QUICK NOTES/JENKINS VULN.md",
+    "QUICK NOTES/XSS.md",
+    "MAQUINAS/DORCKERLABS/HIDDENCAT.md",
     "BUG BOUNTY NOTES",
     "PENETRATION TESTER HTB/WEB ATTACKS",
     "PENETRATION TESTER HTB/FILE UPLOADS ATTACK",

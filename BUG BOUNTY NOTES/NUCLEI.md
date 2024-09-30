@@ -71,3 +71,15 @@ You can resume the scan from the last request with a command similar to the foll
 ```bash
 nuclei -l targets-file.txt -resume /path/to/resume-file.cfg
 ```
+
+
+
+```bash
+subfinder -d example.com > urls.txt
+
+httpx -l urls.txt -o livehosts.txt
+
+katana -u livehosts.txt -o endpoints.txt
+
+nuclei -l filtered_endpoints.txt -t ~/.local/nuclei-templates/vulnerabilities/ -tags xss,sqli,ssrf,redirect,lfi,rfi,path-traversal,idor,command-injection -rate-limit 4 
+```

