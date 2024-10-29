@@ -33,3 +33,10 @@ Cambiando el id a carlos vemos que nos redirige al home, pero si lo capturamos c
 
 En este lab nos piden que averiguemos la constraseña de administrator, esto lo logramos cambiando el id a administrator y capturandolo con Burp, se nos leakea en el codigo fuente la contraseña.
 
+# Lab: URL-based access control can be circumvented
+
+
+1. Try to load `/admin` and observe that you get blocked. Notice that the response is very plain, suggesting it may originate from a front-end system.
+2. Send the request to Burp Repeater. Change the URL in the request line to `/` and add the HTTP header `X-Original-URL: /invalid`. Observe that the application returns a "not found" response. This indicates that the back-end system is processing the URL from the `X-Original-URL` header.
+3. Change the value of the `X-Original-URL` header to `/admin`. Observe that you can now access the admin page.
+4. To delete `carlos`, add `?username=carlos` to the real query string, and change the `X-Original-URL` path to `/admin/delete`.

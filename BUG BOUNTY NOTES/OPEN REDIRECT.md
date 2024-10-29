@@ -1,4 +1,14 @@
 
+### NOTAS
+
+Si encontramos una web que tiene un redirect, pero tiene una white list, una forma de bypassearlo es con "@"
+```
+https://example.com/?redirect=http://www.google.com@evil.com
+```
+
+En este caso ignorara google.com y se dirigirá a evil.com
+
+
 ```
 you can try this effective manual openredirect Bypass:
 

