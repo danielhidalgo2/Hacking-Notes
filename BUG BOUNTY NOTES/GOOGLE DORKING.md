@@ -12,3 +12,8 @@ site:example.com intext:"sql syntax near" OR intext:"syntax error" OR intext:"un
 inurl:redirectUrl=http site:example.com:inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=http
 
 https://taksec.github.io/google-dorks-bug-bounty/
+
+https://dorks.faisalahmed.me/
+https://www.bugbountyhunting.com/
+
+
